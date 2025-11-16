@@ -1,0 +1,12 @@
+Issue Type,Summary,Description,Status,Epic Link
+Epic,User Authentication,"Ability for users to manage personal tasks",To Do,
+Epic,Task Management,"Ability to add, delete, and view tasks",To Do,
+Story,Create API Endpoint for Creating Tasks,"As a user, I want to create tasks so that I can track what I need to do",To Do,Task Management
+Story,View Tasks List,"As a user, I want to view all my tasks in a list format",To Do,Task Management
+Story,Delete a Task,"As a user, I want to delete a task so I can stay organized",To Do,Task Management
+Task,Create Express Route for POST /tasks,"Backend function",To Do,Task Management
+Task,Create Express Route for GET /tasks,"Backend function",To Do,Task Management
+Task,Create Express Route for DELETE /tasks/:id,"Backend function",To Do,Task Management
+Story,Deploy SmartTask to Google Cloud,"Deployment and server hosting",To Do,User Authentication
+Task,Set up Dockerfile and containerization,"Container-ready environment",To Do,User Authentication
+Task,Create CI/CD GitHub workflow,"Automated pipeline",To Do,User Authentication
