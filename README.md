@@ -5,7 +5,7 @@ SmartTask is a minimal task management tool that allows users to create, view, a
 
 ---
 
-## 🚀 Features
+##  Features
 - Create a task
 - View all tasks
 - Delete a task
